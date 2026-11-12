@@ -1,0 +1,6 @@
+{
+  "name": "AKRAM CALCULATOR",
+  "description": "Futuristic cyberpunk scientific calculator with matrix visual styling, advanced math engine, and programmer mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
